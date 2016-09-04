@@ -1,2 +1,2 @@
 # Number_guess
-A game where you have to guess a number withing a selected range.
+A game where you have to guess a number within a selected range.
