@@ -1,5 +1,5 @@
 import random
 
 while True:
-    input("Press enter")
+    input("Press Enter")
     print(random.randint(1,10))
